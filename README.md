@@ -128,9 +128,12 @@ The app will open at [http://localhost:3000](http://localhost:3000).
 
 ---
 
-## 📸 Screenshots
+## 🌐 Live Demo
 
-> Add screenshots of your app here!
+🔗 **Try it live:** [Messenger Clone](https://messenger-clone-1-5gif.onrender.com)
+
+> **Note:** The backend may take ~30 seconds to wake up on the first request (free-tier Render cold start).
+
 
 ---
 
